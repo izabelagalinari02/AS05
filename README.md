@@ -2,6 +2,9 @@
 
 Este aplicativo Streamlit permite que você converse com seus documentos PDF usando o poder de Grandes Modelos de Linguagem (LLMs) e embeddings de texto. Faça upload de seus PDFs, faça perguntas em linguagem natural e obtenha respostas perspicazes com base no conteúdo de seus documentos.
 
+Interface com Deploy feito via Streamlit. Disponível em:
+https://izabela.streamlit.app/
+
 ## Recursos
 
 * **Carregamento de PDFs:** Carregue facilmente vários documentos PDF.
